@@ -11,3 +11,25 @@ pip install plotly --upgrade  # Plotly graphing library used in examples
 pip install flask
 pip install pandas
 pip install numpy
+
+
+
+Run
+
+python app.py
+
+Open browser at localhost
+http://127.0.0.1:8050
+
+On the top aggregated statistics on reactions about Egor Kreed.
+It is clear to see his tour time, or new videos.
+
+Second graph is New Users coming
+
+Table is user profiles, choose some of them, and graphs below show statistic about posts and reactions got.
+
+Personal traits.
+
+Graphfs for countries and cities.
+
+
